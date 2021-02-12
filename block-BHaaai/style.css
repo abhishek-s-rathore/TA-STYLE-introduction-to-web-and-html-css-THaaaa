@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(34,57,106);
+    color:white;
+}
+
+h2{
+   color: rgb(96,188,104);
+}
+
+a{
+   color: rgb(236,73,78);
+
+}
+  
+   .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .cen{ 
+      text-align: center;
+  }
+  .para{
+      text-align: center;
+      background-color: rgb(17,36,78);
+  }
